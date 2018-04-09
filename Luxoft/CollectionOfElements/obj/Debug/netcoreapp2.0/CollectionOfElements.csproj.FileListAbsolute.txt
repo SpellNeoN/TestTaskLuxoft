@@ -1,0 +1,10 @@
+/Users/stanislavshevchuk/Projects/Luxoft/CollectionOfElements/bin/Debug/netcoreapp2.0/CollectionOfElements.deps.json
+/Users/stanislavshevchuk/Projects/Luxoft/CollectionOfElements/bin/Debug/netcoreapp2.0/CollectionOfElements.runtimeconfig.json
+/Users/stanislavshevchuk/Projects/Luxoft/CollectionOfElements/bin/Debug/netcoreapp2.0/CollectionOfElements.runtimeconfig.dev.json
+/Users/stanislavshevchuk/Projects/Luxoft/CollectionOfElements/bin/Debug/netcoreapp2.0/CollectionOfElements.dll
+/Users/stanislavshevchuk/Projects/Luxoft/CollectionOfElements/bin/Debug/netcoreapp2.0/CollectionOfElements.pdb
+/Users/stanislavshevchuk/Projects/Luxoft/CollectionOfElements/obj/Debug/netcoreapp2.0/CollectionOfElements.csproj.CoreCompileInputs.cache
+/Users/stanislavshevchuk/Projects/Luxoft/CollectionOfElements/obj/Debug/netcoreapp2.0/CollectionOfElements.AssemblyInfoInputs.cache
+/Users/stanislavshevchuk/Projects/Luxoft/CollectionOfElements/obj/Debug/netcoreapp2.0/CollectionOfElements.AssemblyInfo.cs
+/Users/stanislavshevchuk/Projects/Luxoft/CollectionOfElements/obj/Debug/netcoreapp2.0/CollectionOfElements.dll
+/Users/stanislavshevchuk/Projects/Luxoft/CollectionOfElements/obj/Debug/netcoreapp2.0/CollectionOfElements.pdb

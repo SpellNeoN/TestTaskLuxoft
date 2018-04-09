@@ -1,0 +1,10 @@
+/Users/stanislavshevchuk/Projects/Luxoft/SQL/bin/Debug/netcoreapp2.0/SQL.deps.json
+/Users/stanislavshevchuk/Projects/Luxoft/SQL/bin/Debug/netcoreapp2.0/SQL.runtimeconfig.json
+/Users/stanislavshevchuk/Projects/Luxoft/SQL/bin/Debug/netcoreapp2.0/SQL.runtimeconfig.dev.json
+/Users/stanislavshevchuk/Projects/Luxoft/SQL/bin/Debug/netcoreapp2.0/SQL.dll
+/Users/stanislavshevchuk/Projects/Luxoft/SQL/bin/Debug/netcoreapp2.0/SQL.pdb
+/Users/stanislavshevchuk/Projects/Luxoft/SQL/obj/Debug/netcoreapp2.0/SQL.csproj.CoreCompileInputs.cache
+/Users/stanislavshevchuk/Projects/Luxoft/SQL/obj/Debug/netcoreapp2.0/SQL.AssemblyInfoInputs.cache
+/Users/stanislavshevchuk/Projects/Luxoft/SQL/obj/Debug/netcoreapp2.0/SQL.AssemblyInfo.cs
+/Users/stanislavshevchuk/Projects/Luxoft/SQL/obj/Debug/netcoreapp2.0/SQL.dll
+/Users/stanislavshevchuk/Projects/Luxoft/SQL/obj/Debug/netcoreapp2.0/SQL.pdb

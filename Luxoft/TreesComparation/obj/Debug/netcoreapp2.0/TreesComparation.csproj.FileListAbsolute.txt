@@ -1,0 +1,11 @@
+/Users/stanislavshevchuk/Projects/Luxoft/TreesComparation/bin/Debug/netcoreapp2.0/TreesComparation.deps.json
+/Users/stanislavshevchuk/Projects/Luxoft/TreesComparation/bin/Debug/netcoreapp2.0/TreesComparation.runtimeconfig.json
+/Users/stanislavshevchuk/Projects/Luxoft/TreesComparation/bin/Debug/netcoreapp2.0/TreesComparation.runtimeconfig.dev.json
+/Users/stanislavshevchuk/Projects/Luxoft/TreesComparation/bin/Debug/netcoreapp2.0/TreesComparation.dll
+/Users/stanislavshevchuk/Projects/Luxoft/TreesComparation/bin/Debug/netcoreapp2.0/TreesComparation.pdb
+/Users/stanislavshevchuk/Projects/Luxoft/TreesComparation/obj/Debug/netcoreapp2.0/TreesComparation.csprojResolveAssemblyReference.cache
+/Users/stanislavshevchuk/Projects/Luxoft/TreesComparation/obj/Debug/netcoreapp2.0/TreesComparation.csproj.CoreCompileInputs.cache
+/Users/stanislavshevchuk/Projects/Luxoft/TreesComparation/obj/Debug/netcoreapp2.0/TreesComparation.AssemblyInfoInputs.cache
+/Users/stanislavshevchuk/Projects/Luxoft/TreesComparation/obj/Debug/netcoreapp2.0/TreesComparation.AssemblyInfo.cs
+/Users/stanislavshevchuk/Projects/Luxoft/TreesComparation/obj/Debug/netcoreapp2.0/TreesComparation.dll
+/Users/stanislavshevchuk/Projects/Luxoft/TreesComparation/obj/Debug/netcoreapp2.0/TreesComparation.pdb

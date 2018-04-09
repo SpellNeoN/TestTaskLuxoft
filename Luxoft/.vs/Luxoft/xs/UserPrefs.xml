@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{BE568648-8276-4593-B022-5327A4BC53CB}|Default">
+  <MonoDevelop.Ide.ItemProperties.CollectionOfElements PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.TreesComparation PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SQL/Program.cs">
+    <Files>
+      <File FileName="CollectionOfElements/Program.cs" Line="75" Column="2" />
+      <File FileName="test_task_description.txt" Line="23" Column="3" />
+      <File FileName="TreesComparation/Program.cs" Line="112" Column="60" />
+      <File FileName="SQL/Program.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.SQL FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+</Properties>
